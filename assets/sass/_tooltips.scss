@@ -1,0 +1,43 @@
+a.tooltips {
+  position: relative;
+  display: inline;
+
+  span {
+    position: absolute;
+    left: 50%;
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 12px;
+    background: #000000;
+    text-align: center;
+    visibility: hidden;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px #080000;
+    font-family: $title-font-family;
+
+    &:after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      margin-left: -8px;
+      width: 0; height: 0;
+      border-top: 8px solid #000000;
+      border-right: 8px solid transparent;
+      border-left: 8px solid transparent;
+    }
+
+  }
+
+  &:hover{
+    span {
+      visibility: visible;
+      opacity: 0.9;
+      bottom: 30px;
+      left: 50%;
+      z-index: 999;
+
+    }
+
+  } 
+}

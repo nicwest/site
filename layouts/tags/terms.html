@@ -1,0 +1,9 @@
+{{ define "content" }}
+<h1>Tags</h1>
+<p>
+{{ $len := len .Pages }}
+{{ range $i, $tag := (.Pages.ByDate).Reverse }}
+<a class="post-link" href="{{ $tag.Permalink }}">{{$tag.Title}}</a>{{ if ne (add $i 1) $len }}, {{end}}
+{{ end }}
+</p>
+{{ end }}

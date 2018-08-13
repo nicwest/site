@@ -1,0 +1,76 @@
+/*
+ * Content
+ */
+.page-content {
+   margin-top: 50px;
+   padding-bottom: 25px; 
+}
+/*
+ * Index
+ */
+
+
+/*
+ * Posts
+ */
+
+.post-meta {
+  font-size: 12px;
+}
+
+.post-title {
+  color: $brand-color;
+}
+
+.post-content {
+  img {
+    margin: 0 auto;
+    max-width: 100%;
+  }
+}
+
+/*
+ * Footer
+ */
+
+footer.site-footer {
+  background-color:$brand-color; 
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20px;
+  font-size: 14px;
+  color: #FFF;
+
+  .container {
+    max-width: $content-width - 30*2;
+    margin: 0 auto;
+    padding: 0 15px 8px 15px;
+
+
+    a {
+      color: #FFF;
+    }
+
+    .float-left {
+      float: left;
+    }
+    .float-right {
+      float: right;
+    }
+    .clear-both {
+      clear: both;
+    }
+
+  }  
+
+  @include media-query($on-laptop) {
+    .container {
+      padding: 0 30px 8 30px;
+    }
+  }
+
+}
+
+

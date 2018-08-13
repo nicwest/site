@@ -1,0 +1,10 @@
+{{ define "content" }}
+{{ range (.Pages.ByDate).Reverse }}
+  <span class="post-meta">
+    <strong class="title-font">posted:</strong> {{ .PublishDate.Format "2006-01-02 15:04" }}
+  </span>
+  <h2>
+    <a class="post-link" href="{{ .Permalink }}">{{.Title}}</a>
+  </h2>
+{{ end }}
+{{ end }}

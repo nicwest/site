@@ -1,0 +1,7 @@
+baseURL = "http://nic-west.com/"
+languageCode = "en-us"
+title = "Likely just ramblings about vim."
+
+[taxonomies]
+  tag = "tags"
+
