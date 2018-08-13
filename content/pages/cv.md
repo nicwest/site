@@ -14,7 +14,7 @@ History
 * Maintained and extended a large monolithic objective c web API. 
 * Created numerous micro services in python and go for new functionality.
 * Refactored and rearchitected django B2C products. 
-* Integrated with multiple third party API's.
+* Integrated with multiple third party APIs.
 * Heavily involved in the hiring and training of new staff.
 * Introduced testing and the benefits of CI to the team.
 * Production experience at scale of docker, kubernetes and google cloud.
@@ -41,7 +41,7 @@ ebook covertions and corrections*
 * Predominately perl and python
 
 **2009 - 2010:** Web Development Assistant @ Random House   
-*Random House is large book publisher that required alot of micro sites and
+*Random House is large book publisher that required a lot of micro sites and
 internal tools*   
 
 * Built small websites for authors, or book launches.
@@ -59,17 +59,17 @@ Education
 Skills
 ------
 
-**Python:** I would describe my self as an exceptionally strong python
+**Python:** I would describe myself as an exceptionally strong python
 developer. I have production experience with most of the major python web
-frameworks. I have shipped API's, template based web sites, GUI tools,
+frameworks. I have shipped APIs, template based web sites, GUI tools,
 statically generated sites, serverless micro services, and realtime websocket
 based applications. I have seen python running at scale and python falling
-flat on it's face at scale. I write good, simple, low-state python code that
+flat on its face at scale. I write good, simple, low-state python code that
 is designed to be easily understood, easy to replace/refactor, and easy to
 test (in that order of priority).
 
 **Go:** This is my second language and the hammer I reach for when python
-reaches it's limits. I have been shipping high volume, low latency go code
+reaches its limits. I have been shipping high volume, low latency go code
 for over 2 years. I have experience optimising go for both speed and resource
 usage and would describe myself as competent gopher.
 
@@ -91,7 +91,7 @@ I like domain driven, asynchronous, micro services with minimal
 interdependencies.
 
 **API Design:** Having spent the last 4-5 years primarily either writing or
-consuming API's I have fairly strong opinions about public API design. API's
+consuming APIs I have fairly strong opinions about public API design. APIs
 should be consistent, easy to deserialise, and provide clear information when
 things deviate from the happy path. I recently read *[Consumer-Centric API
 Design][consumer-centric]* by Thomas Hunter, and I feel like it neatly

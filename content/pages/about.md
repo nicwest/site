@@ -10,7 +10,8 @@ I spend most of my time working on a large obj-c monolith, building
 microservices in go, refactoring nasty old code, and testing django
 applications. I think of my self as a most-of-stack developer, and I'm
 happy-ish working on frontend, backend, databases, and server infrastructure.
-I am also beginning to enjoy writing documentation, which is . 
+I am also beginning to enjoy writing documentation, which is a truely
+terrifying prospect. 
 
 From 2010 through 2014 I ran [Stunjelly][stunjelly] with [Edward Knowles][ned].
 Stunjelly was a eBook and digital publishing consultancy that specialised
