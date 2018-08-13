@@ -1,4 +1,4 @@
-baseURL = "http://nic-west.com/"
+baseURL = "https://nic-west.com/"
 languageCode = "en-us"
 title = "Likely just ramblings about vim."
 
