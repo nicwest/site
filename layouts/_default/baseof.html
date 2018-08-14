@@ -12,7 +12,7 @@
     {{ end }}
     {{ $styles := resources.Get "sass/main.scss" | resources.ToCSS }}
     <link href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic|Questrial|Inconsolata:400,700" rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
   </head>
   <body>
     <div class="page-content">
@@ -58,6 +58,6 @@
         <div class="clear-both"></div>
       </div>
     </footer>
-    <script src="{{ $.Site.BaseURL }}js/main.js"></script>
+    <script src="/js/main.js"></script>
   </body>
 </html>
