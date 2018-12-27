@@ -9,7 +9,7 @@ good mentor, and award winning eBook animator. [Read more...][about]
 History
 -------
 
-**2018 - present:** Lead Backend Developer @ Unmortgage
+**2018 - present:** Lead Backend Developer @ Unmortgage    
 *Unmortgage aims to bridge the gap between renting and buying a home*
 
 * TBC
