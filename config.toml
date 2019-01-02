@@ -1,6 +1,7 @@
 baseURL = "https://nic-west.com/"
 languageCode = "en-us"
 title = "Likely just ramblings about vim."
+enableEmoji = true
 
 [taxonomies]
   tag = "tags"
