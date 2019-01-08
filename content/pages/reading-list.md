@@ -6,16 +6,15 @@ url: /reading-list/
 
 ## In progress
 
-**We Are Legion (We Are Bob)** <sup>hn</sup> - Dennis E. Taylor :rofl:
+**You Die When You Die** - Angus Watson
+
+**Labyrinths** <sup>hn</sup> - Jorge Luis Borges :confused:
 
 **Salt, Fat, Acid, Heat** - Samin Nosrat :yum:
-
-**The Legacy** - JD Franx :zzz:
 
 
 ## Next up
 
-**Labyrinths** <sup>hn</sup> - Jorge Luis Borges
 
 **Where Wizards Stay Up Late** <sup>hn</sup> - Katie Hafner
 
@@ -28,6 +27,10 @@ url: /reading-list/
 **Confessions of an Economic Hit Man** <sup>hn</sup> - John Perkins
 
 ## Finished
+
+**The Legacy** - JD Franx :zzz:
+
+**We Are Legion (We Are Bob)** <sup>hn</sup> - Dennis E. Taylor :rofl:
 
 **Agile Estimating and Planning** - Mike Cohn :thumbsup:
 
