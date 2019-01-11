@@ -12,6 +12,8 @@ url: /reading-list/
 
 **Salt, Fat, Acid, Heat** - Samin Nosrat :yum:
 
+**For We Are Many** - Denis E. Taylor
+
 
 ## Next up
 
