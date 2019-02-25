@@ -8,25 +8,13 @@ url: /reading-list/
 
 **You Die When You Die** - Angus Watson
 
-**Labyrinths** <sup>hn</sup> - Jorge Luis Borges :confused:
+**Where Wizards Stay Up Late** <sup>hn</sup> - Katie Hafner
 
-**Salt, Fat, Acid, Heat** - Samin Nosrat :yum:
-
-**For We Are Many** - Denis E. Taylor
-
+**Specification by Example** - Gojko Adzic
 
 ## Next up
 
-
-**Where Wizards Stay Up Late** <sup>hn</sup> - Katie Hafner
-
 **Rapid Development** - Steve McConnell
-
-**The Road to Somewhere** <sup>r</sup> - David Goodhart
-
-**ATDD by Example** - Markus Gärtner
-
-**Confessions of an Economic Hit Man** <sup>hn</sup> - John Perkins
 
 ## Finished
 
@@ -36,9 +24,23 @@ url: /reading-list/
 
 **Agile Estimating and Planning** - Mike Cohn :thumbsup:
 
+**For We Are Many** - Denis E. Taylor :thumbsup:
+
+**All These Worlds** - Denis E. Taylor :thumbsup:
+
+**ATDD by Example** - Markus Gärtner :thumbsdown:
+
 ## Got bored and stopped
 
 **Agile Retrospectives** - Esther Derby &amp; Diana Larsen
+
+**Salt, Fat, Acid, Heat** - Samin Nosrat :yum:
+
+**Labyrinths** <sup>hn</sup> - Jorge Luis Borges :confused:
+
+**The Road to Somewhere** <sup>r</sup> - David Goodhart
+
+**Confessions of an Economic Hit Man** <sup>hn</sup> - John Perkins
 
 <hr />
 
