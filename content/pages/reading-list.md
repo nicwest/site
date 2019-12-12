@@ -6,17 +6,57 @@ url: /reading-list/
 
 ## In progress
 
-**You Die When You Die** - Angus Watson
-
-**Where Wizards Stay Up Late** <sup>hn</sup> - Katie Hafner
-
-**Specification by Example** - Gojko Adzic
+**Path of Destruction**  - Drew Karpyshyn
 
 ## Next up
 
-**Rapid Development** - Steve McConnell
+**Team Topologies** - Matthew Skelton, Manuel Pais
+
+**The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**How Buildings Learn: What Happens After They're Built** - Stewart Brand
+
+**Production Ready Microservices** - Susan Fowler
+
+**How to Read a Book** - Mortimar J. Adler, Charles Van Doren
+
+**The Machine That Changed the World** - James Womack, Daniel Jones, and Daniel Roos
+
+**The Pheonix Project** - Kevin Behr, Gene Kim, George Spafford
+
+**The End is Always Near** - Dan Carlin
+
+**The Secret Commonwealth** - Philip Pullman
+
+**Children of Ruin** - Adrian Tchaikovsky
+
+**The Three-Body Problem** - Cixin Liu
+
+**Ironclads** - Adrian Tchaikovsky
+
+**Zero Hour** - Craig Alanson
+
+**Black Ops** - Craig Alanson
+
+**Occultist** - Oliver Mayes
+
+**Dogs of War** - Adrian Tchaikovsky
+
+**Paradise** - Craig Alanson
+
+**SPQR** - Mary Beard
+
+**SpecOps** - Craig Alanson
+
+**Columbus Day** - Craig Alanson
+
+**Artemis** - Andy Weir
+
+**Age of Iron** - Angus Watson
+
+**Harry Potter a l'Ecole des Sorciers** - J.K. Rowling
 
 **The Legacy** - JD Franx :zzz:
 
@@ -30,7 +70,14 @@ url: /reading-list/
 
 **ATDD by Example** - Markus Gärtner :thumbsdown:
 
+**You Die When You Die** - Angus Watson
+
+**Where Wizards Stay Up Late** <sup>hn</sup> - Katie Hafner
+
+
 ## Got bored and stopped
+
+**Specification by Example** - Gojko Adzic
 
 **Agile Retrospectives** - Esther Derby &amp; Diana Larsen
 
@@ -42,9 +89,12 @@ url: /reading-list/
 
 **Confessions of an Economic Hit Man** <sup>hn</sup> - John Perkins
 
+**Rapid Development** - Steve McConnell
+
 <hr />
 
-### key to recomendations
+### key to recommendations
 
 <sup>hn</sup>: Hacker News
 <sup>r</sup>: Reddit 
+<sup>o</sup>: Oisin
