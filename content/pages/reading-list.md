@@ -16,29 +16,31 @@ url: /reading-list/
 
 ## Finished
 
-**How Buildings Learn: What Happens After They're Built** - Stewart Brand :thumbsup:
-
-**Production Ready Microservices** - Susan Fowler
-
-**How to Read a Book** - Mortimar J. Adler, Charles Van Doren
-
-**The Machine That Changed the World** - James Womack, Daniel Jones, and Daniel Roos :thumbsup:
-
-**The Pheonix Project** - Kevin Behr, Gene Kim, George Spafford :thumbsup:
+**The Pheonix Project** <sup>o</sup> - Kevin Behr, Gene Kim, George Spafford :thumbsup:
 
 **The End is Always Near** - Dan Carlin
 
 **The Secret Commonwealth** - Philip Pullman
 
+**How Buildings Learn: What Happens After They're Built** - Stewart Brand :thumbsup:
+
 **Children of Ruin** - Adrian Tchaikovsky
 
 **The Three-Body Problem** - Cixin Liu
 
+**How to Read a Book** - Mortimar J. Adler, Charles Van Doren
+
 **Ironclads** - Adrian Tchaikovsky
+
+**The Machine That Changed the World** - James Womack, Daniel Jones, and Daniel Roos :thumbsup:
+
+**Production Ready Microservices** - Susan Fowler
 
 **Zero Hour** - Craig Alanson
 
 **Black Ops** - Craig Alanson
+
+**Kanban: Successful Evolutionary Change for Your Technology Business** - David J Anderson :thumbsup:
 
 **Occultist** - Oliver Mayes
 
@@ -52,7 +54,7 @@ url: /reading-list/
 
 **Columbus Day** - Craig Alanson
 
-**Artemis** - Andy Weir
+**Artemis** <sup>o</sup> - Andy Weir
 
 **Age of Iron** - Angus Watson
 
