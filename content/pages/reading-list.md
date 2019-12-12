@@ -16,15 +16,15 @@ url: /reading-list/
 
 ## Finished
 
-**How Buildings Learn: What Happens After They're Built** - Stewart Brand
+**How Buildings Learn: What Happens After They're Built** - Stewart Brand :thumbsup:
 
 **Production Ready Microservices** - Susan Fowler
 
 **How to Read a Book** - Mortimar J. Adler, Charles Van Doren
 
-**The Machine That Changed the World** - James Womack, Daniel Jones, and Daniel Roos
+**The Machine That Changed the World** - James Womack, Daniel Jones, and Daniel Roos :thumbsup:
 
-**The Pheonix Project** - Kevin Behr, Gene Kim, George Spafford
+**The Pheonix Project** - Kevin Behr, Gene Kim, George Spafford :thumbsup:
 
 **The End is Always Near** - Dan Carlin
 
@@ -42,7 +42,7 @@ url: /reading-list/
 
 **Occultist** - Oliver Mayes
 
-**Dogs of War** - Adrian Tchaikovsky
+**Dogs of War** - Adrian Tchaikovsky :thumbsup:
 
 **Paradise** - Craig Alanson
 
