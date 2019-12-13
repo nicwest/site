@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-**Path of Destruction**  - Drew Karpyshyn
+**The Power** - Naomi Adler
 
 ## Next up
 
@@ -15,6 +15,8 @@ url: /reading-list/
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**Path of Destruction**  - Drew Karpyshyn
 
 **The Pheonix Project** <sup>o</sup> - Kevin Behr, Gene Kim, George Spafford :thumbsup:
 
