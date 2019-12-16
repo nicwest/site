@@ -28,7 +28,7 @@ url: /reading-list/
 
 **Children of Ruin** - Adrian Tchaikovsky
 
-**The Three-Body Problem** - Cixin Liu
+**The Three-Body Problem** <sup>o</sup> - Cixin Liu
 
 **How to Read a Book** - Mortimar J. Adler, Charles Van Doren
 
