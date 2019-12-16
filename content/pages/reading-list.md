@@ -6,15 +6,15 @@ url: /reading-list/
 
 ## In progress
 
-**The Power** - Naomi Adler
+**Team Topologies** - Matthew Skelton, Manuel Pais
 
 ## Next up
-
-**Team Topologies** - Matthew Skelton, Manuel Pais
 
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**The Power** - Naomi Adler
 
 **Path of Destruction**  - Drew Karpyshyn
 
