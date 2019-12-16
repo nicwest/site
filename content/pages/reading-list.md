@@ -14,7 +14,7 @@ url: /reading-list/
 
 ## Finished
 
-**The Power** - Naomi Adler
+**The Power** - Naomi Adler :thumbsup:
 
 **Path of Destruction**  - Drew Karpyshyn
 
