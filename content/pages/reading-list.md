@@ -8,6 +8,8 @@ url: /reading-list/
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
+**Hawkmaiden** - Terry Mancour
+
 ## Next up
 
 **The Goal** - Eliyahu M. Goldratt
