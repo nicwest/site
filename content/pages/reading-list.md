@@ -8,13 +8,15 @@ url: /reading-list/
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
-**Hawkmaiden** - Terry Mancour
+**Duncton Wood** - William Horwood
 
 ## Next up
 
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**Hawkmaiden** - Terry Mancour
 
 **The Power** - Naomi Adler :thumbsup:
 
