@@ -6,6 +6,8 @@ url: /reading-list/
 
 ## In progress
 
+**Extracted** - R.R. Haywood
+
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
 ## Next up
