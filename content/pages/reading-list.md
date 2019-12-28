@@ -8,13 +8,15 @@ url: /reading-list/
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
-**Duncton Wood** - William Horwood
-
 ## Next up
 
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**Blood of Elves** - Andrzej Sapkowski
+
+**Duncton Wood** - William Horwood
 
 **Hawkmaiden** - Terry Mancour
 
