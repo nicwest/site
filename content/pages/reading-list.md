@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-**Extracted** - R.R. Haywood
+**Assassin's Apprentice** - Robin Hobb
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
@@ -15,6 +15,8 @@ url: /reading-list/
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**Extracted** - R.R. Haywood
 
 **Blood of Elves** - Andrzej Sapkowski
 
