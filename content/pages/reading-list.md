@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-**Assassin's Apprentice** - Robin Hobb
+**Skyward** - Brandon Sanderson
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
@@ -15,6 +15,8 @@ url: /reading-list/
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**Assassin's Apprentice** - Robin Hobb
 
 **Extracted** - R.R. Haywood
 
