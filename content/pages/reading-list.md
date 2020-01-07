@@ -14,7 +14,7 @@ url: /reading-list/
 
 ## Finished
 
-**Skyward** - Brandon Sanderson
+**Skyward** - Brandon Sanderson :space_invader:
 
 **Assassin's Apprentice** - Robin Hobb
 
