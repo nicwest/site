@@ -6,8 +6,6 @@ url: /reading-list/
 
 ## In progress
 
-**Skyward** - Brandon Sanderson
-
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
 ## Next up
@@ -15,6 +13,8 @@ url: /reading-list/
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**Skyward** - Brandon Sanderson
 
 **Assassin's Apprentice** - Robin Hobb
 
