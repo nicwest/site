@@ -6,6 +6,8 @@ url: /reading-list/
 
 ## In progress
 
+**Battle Mage** - Peter A. Flannery
+
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
 ## Next up
