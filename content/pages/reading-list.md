@@ -18,7 +18,7 @@ url: /reading-list/
 
 **Assassin's Apprentice** - Robin Hobb
 
-**Extracted** - R.R. Haywood
+**Extracted** - R.R. Haywood  :thumbsup:
 
 **Blood of Elves** - Andrzej Sapkowski
 
