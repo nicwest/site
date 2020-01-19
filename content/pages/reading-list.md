@@ -6,15 +6,31 @@ url: /reading-list/
 
 ## In progress
 
-**Path of Destruction**  - Drew Karpyshyn
-
-## Next up
+**Battle Mage** - Peter A. Flannery
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
+
+## Next up
 
 **The Goal** - Eliyahu M. Goldratt
 
 ## Finished
+
+**Skyward** - Brandon Sanderson :space_invader:
+
+**Assassin's Apprentice** - Robin Hobb
+
+**Extracted** - R.R. Haywood  :thumbsup:
+
+**Blood of Elves** - Andrzej Sapkowski
+
+**Duncton Wood** - William Horwood
+
+**Hawkmaiden** - Terry Mancour
+
+**The Power** - Naomi Adler :thumbsup:
+
+**Path of Destruction**  - Drew Karpyshyn
 
 **The Pheonix Project** <sup>o</sup> - Kevin Behr, Gene Kim, George Spafford :thumbsup:
 
@@ -26,7 +42,7 @@ url: /reading-list/
 
 **Children of Ruin** - Adrian Tchaikovsky
 
-**The Three-Body Problem** - Cixin Liu
+**The Three-Body Problem** <sup>o</sup> - Cixin Liu
 
 **How to Read a Book** - Mortimar J. Adler, Charles Van Doren
 
