@@ -14,6 +14,8 @@ url: /reading-list/
 
 **The Goal** - Eliyahu M. Goldratt
 
+**Life 3.0** <sup>d</sup>- Max Tegmark
+
 ## Finished
 
 **Skyward** - Brandon Sanderson :space_invader:
@@ -116,3 +118,4 @@ url: /reading-list/
 <sup>hn</sup>: Hacker News
 <sup>r</sup>: Reddit 
 <sup>o</sup>: Oisin
+<sup>d</sup>: David
