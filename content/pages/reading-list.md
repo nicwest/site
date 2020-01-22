@@ -30,7 +30,7 @@ url: /reading-list/
 
 **Hawkmaiden** - Terry Mancour
 
-**The Power** - Naomi Adler :thumbsup:
+**The Power** - Naomi Alderman :thumbsup:
 
 **Path of Destruction**  - Drew Karpyshyn
 
