@@ -19,7 +19,7 @@ url: /reading-list/
 
 ## Finished
 
-**Absolute Pandemonium** - Brian Blessed
+**Absolute Pandemonium** <sup>d</sup> - Brian Blessed
 
 **Battle Mage** - Peter A. Flannery
 
