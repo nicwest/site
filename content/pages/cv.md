@@ -85,7 +85,7 @@ reaches its limits. I have been shipping high volume, low latency go code
 for over 2 years. I have experience optimising go for both speed and resource
 usage and would describe myself as competent gopher.
 
-**Databases:** I have a good working knowledge of MySQL, PostresSQL, and
+**Databases:** I have a good working knowledge of MySQL, PostreSQL, and
 Redis. I have worked with Mongodb and ElasticSearch often (just not recently),
 and have a passable understanding of Cassandra.
 
@@ -93,11 +93,11 @@ and have a passable understanding of Cassandra.
 to provide velocity to any team I'm part of. I have mentored both junior
 developers and non technical staff. I have managed developers in the past and
 my ability to communicate concepts and designs is good. I am well versed in XP
-and have lots of experience with agile and kind-of-sort-of-a-bit-agile style
+and have lots of experience with scrum and kind-of-sort-of-a-bit-scrum style
 set ups.
 
 **System Design:** at a micro level I favour a tracer bullet style of design
-that relies on getting code in to production quickly, and then using metrics
+that relies on getting code into production quickly, and then using metrics
 to evaluate what the next iteration of development should be. On a macro level
 I like domain driven, asynchronous, micro services with minimal
 interdependencies.
@@ -112,7 +112,7 @@ summarises my thoughts and feelings about API design.
 Me
 --
 
-**Date of Birth:** 21/06/1988 (30)   
+**Date of Birth:** 21/06/1988 (32)
 **Email:** [nicwest@mailbox.org](mailto:nicwest@mailbox.org)   
 **References:** On request
 
@@ -126,7 +126,7 @@ Me
         <span>@west_nic</span>
     </a>
 <br/>
-    <small>updated 2018-08-13 22:20:29</small>
+    <small>updated 2020-04-27 03:02:50</small>
 </div>
 
 
