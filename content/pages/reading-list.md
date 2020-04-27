@@ -6,18 +6,17 @@ url: /reading-list/
 
 ## In progress
 
-**Sufficiently Advanced Magic: Arcane Ascension** - Andrew Rowe
-
-**Team Topologies** - Matthew Skelton, Manuel Pais
+**Dragonslayer** - Duncan M. Hamilton
 
 ## Next up
-
 
 **The Goal** - Eliyahu M. Goldratt
 
 **Life 3.0** <sup>d</sup>- Max Tegmark
 
 ## Finished
+
+**Sufficiently Advanced Magic: Arcane Ascension** - Andrew Rowe
 
 **Absolute Pandemonium** <sup>d</sup> - Brian Blessed
 
@@ -101,6 +100,8 @@ url: /reading-list/
 
 
 ## Got bored and stopped
+
+**Team Topologies** - Matthew Skelton, Manuel Pais
 
 **Specification by Example** - Gojko Adzic
 
