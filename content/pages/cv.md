@@ -3,16 +3,22 @@ title: "Nic West"
 url: /cv/
 ---
 
-Senior python and go developer with 8 years experience. Versatile programmer,
-good mentor, and award winning eBook animator. [Read more...][about]
+Senior python and go developer with 10 years of experience. Versatile
+programmer, good mentor, and award winning eBook animator. [Read
+more...][about]
 
 History
 -------
 
-**2018 - present:** Lead Backend Developer @ Unmortgage    
-*Unmortgage aims to bridge the gap between renting and buying a home*
+**2018 - present:** Lead Backend Developer @ Wayhome (previously Unmortgage)
+*Wayhome aims to bridge the gap between renting and buying a home*
 
-* TBC
+* Backend infrastructure and services bootstrap.
+* Hired and trained a small team of backend developers.
+* Oversaw and/or was directly involved in design and development of technical
+  solutions to hundreds of business problems.
+* Tailored development process to fit business needs.
+* Worked closely with product, data, operations and marketing teams.
 
 **2015 - 2018:** Senior Software Engineer @ Ingresso    
 *Ingresso is a international aggregator for the  primary ticketing market*
