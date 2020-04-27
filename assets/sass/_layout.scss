@@ -26,8 +26,27 @@
   img {
     margin: 0 auto;
     max-width: 100%;
+    display: block;
+  }
+  div.graph {
+    width: 100%;
+  }
+  table {
+    margin: 10px auto;
+    tr:nth-child(even) {
+      background: #efede5;
+    }
+    tr:nth-child(odd) {
+      background: auto;
+    }
+    td {
+      margin: 4px;
+      padding: 4px 10px;
+    }
   }
 }
+
+
 
 /*
  * Footer

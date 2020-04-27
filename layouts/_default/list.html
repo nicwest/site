@@ -1,5 +1,5 @@
 {{ define "content" }}
-{{ range (.Pages.ByDate).Reverse }}
+{{ range (.Site.RegularPages.ByDate).Reverse }}
   <span class="post-meta">
     <strong class="title-font">posted:</strong> {{ .PublishDate.Format "2006-01-02 15:04" }}
   </span>

@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font-family: "Merriweather", serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   color: #111;
@@ -41,7 +41,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 12.25px;
+  font-size: 14px;
   text-align: right;
   margin-bottom: 10px; }
 
@@ -121,16 +121,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(600px - (30px * 2));
-  max-width: calc(600px - (30px * 2));
+  max-width: -webkit-calc(1000px - (30px * 2));
+  max-width: calc(1000px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 600px) {
     .wrapper {
-      max-width: -webkit-calc(600px - (30px));
-      max-width: calc(600px - (30px));
+      max-width: -webkit-calc(1000px - (30px));
+      max-width: calc(1000px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -185,7 +185,21 @@ hr {
 
 .post-content img {
   margin: 0 auto;
-  max-width: 100%; }
+  max-width: 100%;
+  display: block; }
+
+.post-content div.graph {
+  width: 100%; }
+
+.post-content table {
+  margin: 10px auto; }
+  .post-content table tr:nth-child(even) {
+    background: #efede5; }
+  .post-content table tr:nth-child(odd) {
+    background: auto; }
+  .post-content table td {
+    margin: 4px;
+    padding: 4px 10px; }
 
 /*
  * Footer
@@ -200,7 +214,7 @@ footer.site-footer {
   font-size: 14px;
   color: #FFF; }
   footer.site-footer .container {
-    max-width: 540px;
+    max-width: 940px;
     margin: 0 auto;
     padding: 0 15px 8px 15px; }
     footer.site-footer .container a {
