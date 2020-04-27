@@ -6,17 +6,22 @@ url: /reading-list/
 
 ## In progress
 
-**Battle Mage** - Peter A. Flannery
+**Sufficiently Advanced Magic: Arcane Ascension** - Andrew Rowe
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
 ## Next up
+
 
 **The Goal** - Eliyahu M. Goldratt
 
 **Life 3.0** <sup>d</sup>- Max Tegmark
 
 ## Finished
+
+**Absolute Pandemonium** <sup>d</sup> - Brian Blessed
+
+**Battle Mage** - Peter A. Flannery
 
 **Skyward** - Brandon Sanderson :space_invader:
 
