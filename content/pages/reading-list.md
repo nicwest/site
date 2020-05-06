@@ -10,6 +10,8 @@ url: /reading-list/
 
 ## Next up
 
+**City of Stairs** <sup>r</sup> - Robert Jackson Bennett
+
 **The Goal** - Eliyahu M. Goldratt
 
 **Life 3.0** <sup>d</sup>- Max Tegmark

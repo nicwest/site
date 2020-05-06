@@ -117,4 +117,7 @@ Number of Monsters | Multiplier
 11-14              | x3
 15                 | x4
 
+
+
+
 <div class="graph" id="graph-1"></div>
