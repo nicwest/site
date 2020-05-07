@@ -6,17 +6,17 @@ url: /reading-list/
 
 ## In progress
 
-**Dragonslayer** - Duncan M. Hamilton
+**City of Stairs** <sup>r</sup> - Robert Jackson Bennett
 
 ## Next up
-
-**City of Stairs** <sup>r</sup> - Robert Jackson Bennett
 
 **The Goal** - Eliyahu M. Goldratt
 
 **Life 3.0** <sup>d</sup>- Max Tegmark
 
 ## Finished
+
+**Dragonslayer** - Duncan M. Hamilton
 
 **Sufficiently Advanced Magic: Arcane Ascension** - Andrew Rowe
 
