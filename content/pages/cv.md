@@ -10,7 +10,7 @@ more...][about]
 History
 -------
 
-**2018 - present:** Lead Backend Developer @ Wayhome (previously Unmortgage)
+**2018 - present:** Lead Backend Developer @ Wayhome (previously Unmortgage)     
 *Wayhome aims to bridge the gap between renting and buying a home*
 
 * Backend infrastructure and services bootstrap.
