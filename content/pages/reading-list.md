@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-**Hyperion** - Dan Simmons
+**Hyperion**<sup>r</sup> - Dan Simmons
 
 ## Next up
 
