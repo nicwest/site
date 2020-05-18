@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-**City of Stairs** <sup>r</sup> - Robert Jackson Bennett
+**Hyperion** - Dan Simmons
 
 ## Next up
 
@@ -15,6 +15,8 @@ url: /reading-list/
 **Life 3.0** <sup>d</sup>- Max Tegmark
 
 ## Finished
+
+**City of Stairs** <sup>r</sup> - Robert Jackson Bennett
 
 **Dragonslayer** - Duncan M. Hamilton
 
