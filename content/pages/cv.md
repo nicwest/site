@@ -112,9 +112,9 @@ summarises my thoughts and feelings about API design.
 Me
 --
 
-**Date of Birth:** 21/06/1988 (32)
+**Date of Birth:** 21/06/1988 (32)    
 **Email:** [nicwest@mailbox.org](mailto:nicwest@mailbox.org)   
-**References:** On request
+**References:** On request    
 
 <div class="center">
     <a href="https://github.com/nicwest" class="tooltips" target="_blank">
