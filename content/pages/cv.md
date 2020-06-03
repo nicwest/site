@@ -59,7 +59,7 @@ internal tools*
 * Built small websites for authors, or book launches.
 * Mainly in ASP classic but also some PHP.
 
-**2004 - 2006:** Assistant Climbing Instructor @ Westyway Sports Center
+**2004 - 2006:** Assistant Climbing Instructor @ Westyway Sports Center    
 *Weekend/holiday work supervising/coaching children and adults in indoor rock
 climbing*   
 
