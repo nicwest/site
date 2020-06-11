@@ -54,6 +54,8 @@ url: /reading-list/
 
 **The Three-Body Problem** <sup>o</sup> - Cixin Liu
 
+**Holy Sister** - Mark Lawrence :thumbsup:
+
 **How to Read a Book** - Mortimar J. Adler, Charles Van Doren
 
 **Ironclads** - Adrian Tchaikovsky
@@ -102,6 +104,123 @@ url: /reading-list/
 
 **Where Wizards Stay Up Late** <sup>hn</sup> - Katie Hafner
 
+**The Legacy** - JD Franx
+
+**The Grey Bastards** - Jonathan French :thumbsup:
+
+**Elantris** - Brandon Sanderson 
+
+**Bloody Rose** - Nicholas Eames :thumbsup:
+
+**Warbreaker** - Brandon Sanderson
+
+**Mythos** - Stephen Fry
+
+**Grey Sister** - Mark Lawrence :thumbsup:
+
+**The Court of Broken Knives** - Anna Smith Spark
+
+**Godblind** - Anna Stephens
+
+**The Ninth Rain** - Jen Williams
+
+**The Society of the Sword Trilogy** - Duncan M. Hamilton
+
+**Oathbringer** - Brandon Sanderson
+
+**Ravenspur** - Conn Iggulden
+
+**Norse Mythology** - Neil Gaiman 
+
+**Children of Time** - Adrian Tchaikovsky :thumbsup:
+
+**Bloodline** - Conn Iggulden
+
+**Trinity** - Conn Iggulden
+
+**An Echo of Things to Come** - James Islington
+
+**The Shadow of What Was Lost** - James Islington
+
+**Lusam** - Dean Cadman :thumbsdown:
+
+**Jorundyr's Path** - Duncan M. Hamilton
+
+**The Wolf of the North** - Duncan M. Hamilton
+
+**Red Sister** - Mark Lawrence :thumbsup:
+
+**Legend** - David Gemmell
+
+**Reamde** - Neal Stephenson :thumbsup:
+
+**Ghost in the Wires** - Kevin Mitnik, William L. Simon :thumbsup:
+
+**Kings of the Wyld** - Nicholas Eames :thumbsup:
+
+**The Reality Dysfunction** - Peter F. Hamilton
+
+**Red Seas Under Red Skies** - Scott Lynch
+
+**The Lies of Locke Lamora** - Scott Lynch
+
+**Words of Radiance** - Brandon Sanderson
+
+**The Way of Kings** - Brandon Sanderson :thumbsup:
+
+**Fear the Future** - Stephen Moss :thumbsup:
+
+**Fear the Survivors** - Stephen Moss :thumbsup:
+
+**Fear the Sky** - Stephen Moss :thumbsup:
+
+**The Emperor's Blades** - Brian Staveley
+
+**The Black Prism** - Brent Weeks
+
+**The Waking Fire** - Anthony Ryan
+
+**Counterstrike** - Joshua Dalzelle
+
+**Flash Boys** - Michael Lewis
+
+**The Gunslinger** - Stephen King :thumbsdown:
+
+**Tower Lord** - Anthony Ryan
+
+**Dawn of Wonder** - Jonathan Renshaw
+
+**Call to Arms** - Joshua Dalzelle
+
+**Warship** - Joshua Dalzelle
+
+**American Gods** - Neil Gaiman :thumbsdown:
+
+**The Martian** - Andy Weir :thumbsup:
+
+**Blood of Elves** - Andrzej Sapkowski
+
+**The Wise Man's Fear** - Patrick Rothfuss 
+
+**Warspite** - Christopher G. Nuttall
+
+**The Wolves of London** - Mark Morris
+
+**Napoleon the Great** - Andrew Roberts :thumbsup:
+
+**Ready Player One** -  Ernest Cline :thumbsup:
+
+**The Cycle of Arawn** -  Edward W. Robertson
+
+**Off to Be the Wizard** - Scott Meyer :thumbsup:
+
+**Armada** - Ernest Cline
+
+**The Godling Chronicles** - Brian D. Anderson
+
+**Harbinger** - Shae Ford
+
+**A Crucible of Souls** - Mitchell Hogan
 
 ## Got bored and stopped
 
