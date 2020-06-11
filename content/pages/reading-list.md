@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-**Hyperion**<sup>r</sup> - Dan Simmons
+**The Blackhawks** - David Wragg
 
 ## Next up
 
@@ -104,6 +104,8 @@ url: /reading-list/
 
 
 ## Got bored and stopped
+
+**Hyperion**<sup>r</sup> - Dan Simmons
 
 **Team Topologies** - Matthew Skelton, Manuel Pais
 
