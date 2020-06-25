@@ -5,7 +5,40 @@ tags: [dev, practice]
 draft: true
 ---
 
-Oh I'm not going to ship that until monday in case it breaks over the weekend.
+It's 5 o'clock on a Friday evening. You have just made a minor change to your
+employers application. You know the change is highly unlikely to break
+anything, you've tested it pretty thoroughly and it appears to be working as
+advertised. You move your mouse over the "deploy to production" button. And
+you pause. Maybe this is not a great idea. Maybe this seeming innocent change
+will break everything. No one will be here to spot that it's broken let alone
+fix it! Pressing this button could cost your organisation 100's of money
+units, or worse you might need to come to work a Saturday! Perhaps it's better
+to leave it until everyone is back in the office and paying attention. Waiting
+until Monday won't be the end of the world. You move your mouse away from the
+button. A while later you pack up your stuff and go home for the weekend.
+
+This is the fear of shipping.
+
+* you ship things
+* there is a non 0% chance that that thing will break
+* there is a non 0% chance that that thing will break catastrophically
+* the more things you ship, the more likely it is that you will see something
+  break.
+* eventually you will be responsible for something really bad happening
+
+These painful memories build up like scar tissue. Each one adding another
+layer to your paranoia related to deploying code. 
+
+This paranoia only compounds when you get more that one person together. 
+
+
+
+
+
+------------------------------------------------------------------------------
+
+
+Oh I'm not going to ship that until Monday in case it breaks over the weekend.
 
 Those features will need to wait for this other feature so we can ship this
 all with minimal disruption
