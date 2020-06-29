@@ -6,15 +6,21 @@ url: /reading-list/
 
 ## In progress
 
-**The Blackhawks** - David Wragg
+**The Dragon's Path** <sup>k</sup> - Daniel Abraham
 
 ## Next up
 
-**The Goal** - Eliyahu M. Goldratt
+**The Goal** <sup>J</sup> - Eliyahu M. Goldratt
 
 **Life 3.0** <sup>d</sup>- Max Tegmark
 
+**On Writing Well** <sup>j</sup> - William Zinsser
+
+**The War of Art** <sup>j</sup> - Steven Pressfield
+
 ## Finished
+
+**The Blackhawks** - David Wragg
 
 **City of Stairs** <sup>r</sup> - Robert Jackson Bennett
 
@@ -250,3 +256,6 @@ url: /reading-list/
 <sup>r</sup>: Reddit 
 <sup>o</sup>: Oisin
 <sup>d</sup>: David
+<sup>k</sup>: Kate
+<sup>j</sup>: John
+<sup>J</sup>: Josef
