@@ -6,7 +6,6 @@ url: /reading-list/
 
 ## In progress
 
-**The Dragon's Path** <sup>k</sup> - Daniel Abraham
 
 ## Next up
 
@@ -19,6 +18,8 @@ url: /reading-list/
 **The War of Art** <sup>j</sup> - Steven Pressfield
 
 ## Finished
+
+**The Dragon's Path** <sup>k</sup> - Daniel Abraham
 
 **The Blackhawks** - David Wragg
 
