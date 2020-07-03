@@ -41,8 +41,11 @@ code.
 I get together with other developers and we exchange war stories. Each cock up
 explained to one another in detail, warnings against use of a technology or
 practice, fables for the next person not to follow in their footsteps. Their
-scars become my scars, my paranoia is no longer linear, it compounds with
-each new developer I talk to.
+scars somehow become my scars, and my paranoia is no longer increasing
+linearly, it's compounding with each new developer I talk to.
+
+
+Safety nets? -> Employers? -> Industry? -> ???
 
 
 
