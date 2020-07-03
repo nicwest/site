@@ -34,9 +34,9 @@ a disastrous outcome. When this happens it hurts me on a personal level. This
 bad thing that happened is my fault.
 
 Sadly sending something out the door without issue doesn't appear to heal
-these wounds. The painful memories of when it all went wrong build up like
-scar tissue. Each one adding another layer to my paranoia related to deploying
-code.
+these wounds particularly well. The painful memories of when it all went wrong
+build up like scar tissue. Each one adding another layer to my paranoia
+related to deploying code.
 
 I get together with other developers and we exchange war stories. Each cock up
 explained to one another in detail, warnings against use of a technology or
