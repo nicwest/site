@@ -19,17 +19,37 @@ button. A while later you pack up your stuff and go home for the weekend.
 
 This is the fear of shipping.
 
-* you ship things
-* there is a non 0% chance that that thing will break
-* there is a non 0% chance that that thing will break catastrophically
-* the more things you ship, the more likely it is that you will see something
-  break.
-* eventually you will be responsible for something really bad happening
+As a developer my job is to design, build, and eventually release software
+into the world to be used by other people. Most of the time this process
+happens happily without issue. Sometimes however, these things that I have
+built don't work as intended, or they break, or they damage other parts of the
+system I am working in. These incidents can lead to a range of not fun
+experiences; frantic roll-backs, lots of shouting, middle of the night calls,
+my employer loosing money, returns to the drawing board, and endless
+post-mortems.
 
-These painful memories build up like scar tissue. Each one adding another
-layer to your paranoia related to deploying code. 
+Every time something leaves my computer there is a non zero % chance that it
+will break. Therefore more stuff that I ship, the more likely it is that
+I will see a disastrous outcome. When this happens it hurts me on a personal
+level. This bad thing that happened is my fault.
 
-This paranoia only compounds when you get more that one person together. 
+Sadly sending something out the door without issue doesn't appear to heal
+these wounds. The painful memories of when it all went wrong build up like
+scar tissue. Each one adding another layer to my paranoia related to deploying
+code.
+
+I get together with other developers and we exchange war stories. Each cock up
+explained to one another in detail, warnings against use of a technology or
+practice, fables for the next person not to follow in their footsteps. Their
+scars become my scars, my paranoia is no longer linear, it compounds with
+each new developer I talk to.
+
+
+
+
+
+
+
 
 
 
