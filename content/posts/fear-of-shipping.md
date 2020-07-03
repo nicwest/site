@@ -29,9 +29,9 @@ my employer loosing money, returns to the drawing board, and endless
 post-mortems.
 
 Every time something leaves my computer there is a non zero % chance that it
-will break. Therefore more stuff that I ship, the more likely it is that
-I will see a disastrous outcome. When this happens it hurts me on a personal
-level. This bad thing that happened is my fault.
+will break. The more stuff that I ship, the more likely it is that I will see
+a disastrous outcome. When this happens it hurts me on a personal level. This
+bad thing that happened is my fault.
 
 Sadly sending something out the door without issue doesn't appear to heal
 these wounds. The painful memories of when it all went wrong build up like
