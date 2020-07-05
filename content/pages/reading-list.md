@@ -6,6 +6,7 @@ url: /reading-list/
 
 ## In progress
 
+**Harry Potter et la Chambre des Secrets** - J.K. Rowling
 
 ## Next up
 
