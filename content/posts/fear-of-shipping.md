@@ -5,17 +5,14 @@ tags: [dev, practice]
 draft: true
 ---
 
-It's 5 o'clock on a Friday evening. You have just made a minor change to your
-employers application. You know the change is highly unlikely to break
-anything, you've tested it pretty thoroughly and it appears to be working as
-advertised. You move your mouse over the "deploy to production" button. And
+You move your mouse over the "deploy to production" button. And
 you pause. Maybe this is not a great idea. Maybe this seeming innocent change
-will break everything. No one will be here to spot that it's broken let alone
-fix it! Pressing this button could cost your organisation 100's of money
-units, or worse you might need to come to work a Saturday! Perhaps it's better
-to leave it until everyone is back in the office and paying attention. Waiting
-until Monday won't be the end of the world. You move your mouse away from the
-button. A while later you pack up your stuff and go home for the weekend.
+will break everything. It's Friday, 5 O'clock. No one will be here to spot
+that it's broken let alone fix it! Pressing this button could cost your
+organisation 100's of money units, or worse you might need to come to work a
+Saturday! Perhaps it's better to leave it until everyone is back in the office
+and paying attention. Waiting until Monday won't be the end of the world. You
+move your mouse away from the button.
 
 This is the fear of shipping.
 
@@ -24,8 +21,8 @@ into the world to be used by other people. Most of the time this process
 happens happily without issue. Sometimes however, these things that I have
 built don't work as intended, or they break, or they damage other parts of the
 system I am working in. These incidents can lead to a range of not fun
-experiences; frantic roll-backs, lots of shouting, middle of the night calls,
-my employer loosing money, returns to the drawing board, and endless
+experiences. Frantic roll-backs, lots of shouting, middle of the night calls,
+my employer loosing money, returning to the drawing board, and endless
 post-mortems.
 
 Every time something leaves my computer there is a non zero % chance that it
@@ -35,23 +32,20 @@ bad thing that happened is my fault.
 
 Sadly sending something out the door without issue doesn't appear to heal
 these wounds particularly well. The painful memories of when it all went wrong
-build up like scar tissue. Each one adding another layer to my paranoia
-related to deploying code.
+hang around in the back of my mind. They build up like scar tissue. Each one
+adding another layer to my paranoia related to shipping things. As I ship more
+stuff, more stuff breaks and my paranoia grows linearly.
 
-I get together with other developers and we exchange war stories. Each cock up
-explained to one another in detail, warnings against use of a technology or
-practice, fables for the next person not to follow in their footsteps. Their
-scars somehow become my scars, and my paranoia is no longer increasing
-linearly, it's compounding with each new developer I talk to.
+I get together with other people and we exchange war stories. Each of their
+cock ups explained in detail, each a fable warning me not to follow in their
+footsteps. Their scars somehow become my scars, and my paranoia is no longer
+increasing linearly, it's compounding with each new developer I talk to.
 
-
-Safety nets? -> Employers? -> Industry? -> ???
-
-
-
-
-
-
+I meticulously read my teams work looking for an angle that was not well
+considered. I test and retest again. We hire dedicated QA
+staff to hunt for unseen errors and monitor and split test and measure
+results. When a problem is found we trigger an urgent rollback and all our
+work is undone in an instant.
 
 
 
