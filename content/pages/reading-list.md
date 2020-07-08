@@ -6,6 +6,7 @@ url: /reading-list/
 
 ## In progress
 
+**Harry Potter et la Chambre des Secrets** - J. K. Rowling
 
 ## Next up
 
@@ -16,6 +17,8 @@ url: /reading-list/
 **On Writing Well** <sup>j</sup> - William Zinsser
 
 **The War of Art** <sup>j</sup> - Steven Pressfield
+
+**Exhalation** <sup>jm</sup> - Ted Chiang
 
 ## Finished
 
@@ -260,3 +263,4 @@ url: /reading-list/
 <sup>k</sup>: Kate
 <sup>j</sup>: John
 <sup>J</sup>: Josef
+<sup>jm</sup>: Johnny M
