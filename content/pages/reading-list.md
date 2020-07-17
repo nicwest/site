@@ -20,6 +20,8 @@ url: /reading-list/
 
 **Exhalation** <sup>jm</sup> - Ted Chiang
 
+**Born to Run** <sup>jds</sup> - Christopher McDougall 
+
 ## Finished
 
 **The Dragon's Path** <sup>k</sup> - Daniel Abraham
@@ -264,3 +266,4 @@ url: /reading-list/
 <sup>j</sup>: John
 <sup>J</sup>: Josef
 <sup>jm</sup>: Johnny M
+<sup>jds</sup>: Jorge
