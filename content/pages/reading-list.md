@@ -24,6 +24,8 @@ url: /reading-list/
 
 **Born to Run** <sup>jds</sup> - Christopher McDougall 
 
+**The Making and Maintenance of Open Source Software** <sup>hn</sup> - Nadia Eghbal
+
 ## Finished
 
 **The Dragon's Path** <sup>k</sup> - Daniel Abraham
