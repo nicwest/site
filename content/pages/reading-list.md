@@ -24,7 +24,7 @@ url: /reading-list/
 
 **Born to Run** <sup>jds</sup> - Christopher McDougall 
 
-**The Making and Maintenance of Open Source Software** <sup>hn</sup> - Nadia Eghbal
+**Working in Public** <sup>hn</sup> - Nadia Eghbal
 
 ## Finished
 
