@@ -26,6 +26,8 @@ url: /reading-list/
 
 **Working in Public** <sup>hn</sup> - Nadia Eghbal
 
+**The Left Hand of Darkness** <sup>hn</sup> - Ursula K. Le Guin
+
 ## Finished
 
 **The Dragon's Path** <sup>k</sup> - Daniel Abraham
