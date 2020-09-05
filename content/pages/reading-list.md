@@ -6,11 +6,13 @@ url: /reading-list/
 
 ## In progress
 
+**The Rage of Dragons** - Evan Winter
+
+## Next up
+
 **Harry Potter et la Chambre des Secrets** - J.K. Rowling
 
 **The Winter Fortress: The Epic Mission to Sabotage Hitler's Atomic Bomb** - Neal Bascomb 
-
-## Next up
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
 
