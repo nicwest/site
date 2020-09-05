@@ -10,10 +10,6 @@ url: /reading-list/
 
 ## Next up
 
-**Harry Potter et la Chambre des Secrets** - J.K. Rowling
-
-**The Winter Fortress: The Epic Mission to Sabotage Hitler's Atomic Bomb** - Neal Bascomb 
-
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
 
 **Life 3.0** <sup>d</sup>- Max Tegmark
@@ -31,6 +27,10 @@ url: /reading-list/
 **The Left Hand of Darkness** <sup>hn</sup> - Ursula K. Le Guin
 
 ## Finished
+
+**Harry Potter et la Chambre des Secrets** - J.K. Rowling
+
+**The Winter Fortress: The Epic Mission to Sabotage Hitler's Atomic Bomb** - Neal Bascomb 
 
 **The Dragon's Path** <sup>k</sup> - Daniel Abraham
 
