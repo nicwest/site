@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-**The Rage of Dragons** - Evan Winter
+
 
 ## Next up
 
@@ -27,6 +27,8 @@ url: /reading-list/
 **The Left Hand of Darkness** <sup>hn</sup> - Ursula K. Le Guin
 
 ## Finished
+
+**The Rage of Dragons** - Evan Winter :thumbsup:
 
 **Harry Potter et la Chambre des Secrets** - J.K. Rowling
 
