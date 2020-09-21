@@ -24,9 +24,11 @@ url: /reading-list/
 
 **Working in Public** <sup>hn</sup> - Nadia Eghbal
 
+## Finished
+
 **The Left Hand of Darkness** <sup>hn</sup> - Ursula K. Le Guin
 
-## Finished
+**Becoming** -  Michelle Obama
 
 **The Rage of Dragons** - Evan Winter :thumbsup:
 
