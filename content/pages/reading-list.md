@@ -6,7 +6,7 @@ url: /reading-list/
 
 ## In progress
 
-
+**The Girl and the Stars** - Mark Lawrence
 
 ## Next up
 
@@ -25,6 +25,8 @@ url: /reading-list/
 **Working in Public** <sup>hn</sup> - Nadia Eghbal
 
 ## Finished
+
+**Daisy's Run** - Scott Baron
 
 **The Left Hand of Darkness** <sup>hn</sup> - Ursula K. Le Guin
 
