@@ -276,11 +276,11 @@ url: /reading-list/
 
 <sup>hn</sup>: Hacker News
 <sup>r</sup>: Reddit 
-<sup>o</sup>: Oisin
-<sup>d</sup>: David
-<sup>k</sup>: Kate
-<sup>j</sup>: John
-<sup>J</sup>: Josef
+<sup>o</sup>: Oisin M
+<sup>d</sup>: David B
+<sup>k</sup>: Kate J
+<sup>j</sup>: John H
+<sup>J</sup>: Josef W
 <sup>jm</sup>: Johnny M
-<sup>jds</sup>: Jorge
-<sup>s</sup>: Sam
+<sup>jds</sup>: Jorge d S
+<sup>s</sup>: Sam D
