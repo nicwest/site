@@ -24,6 +24,8 @@ url: /reading-list/
 
 **Working in Public** <sup>hn</sup> - Nadia Eghbal
 
+**Leviathan Wakes** <sup>s</sup> - James S. A. Corey
+
 ## Finished
 
 **Daisy's Run** - Scott Baron
@@ -281,3 +283,4 @@ url: /reading-list/
 <sup>J</sup>: Josef
 <sup>jm</sup>: Johnny M
 <sup>jds</sup>: Jorge
+<sup>s</sup>: Sam
