@@ -6,6 +6,8 @@ url: /reading-list/
 
 ## In progress
 
+**Red Rising** - Pierce Brown
+
 **The Girl and the Stars** - Mark Lawrence
 
 ## Next up
