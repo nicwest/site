@@ -6,8 +6,6 @@ url: /reading-list/
 
 ## In progress
 
-**Circe** <sup>r</sup> - Madeline Miller
-
 **The Fifth Season** <sup>r</sup> -  N. K. Jemisin 
 
 ## Next up
@@ -29,6 +27,8 @@ url: /reading-list/
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
+
+**Circe** <sup>r</sup> - Madeline Miller
 
 **Red Rising** <sup>r</sup> - Pierce Brown
 
