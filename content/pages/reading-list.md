@@ -6,15 +6,15 @@ url: /reading-list/
 
 ## In progress
 
-**Red Rising** - Pierce Brown
+**Circe** <sup>r</sup> - Madeline Miller
 
-**The Girl and the Stars** - Mark Lawrence
+**The Fifth Season** <sup>r</sup> -  N. K. Jemisin 
 
 ## Next up
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
 
-**Life 3.0** <sup>d</sup>- Max Tegmark
+**Life 3.0** <sup>d</sup> - Max Tegmark
 
 **On Writing Well** <sup>j</sup> - William Zinsser
 
@@ -29,6 +29,10 @@ url: /reading-list/
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
+
+**Red Rising** <sup>r</sup> - Pierce Brown
+
+**The Girl and the Stars** - Mark Lawrence
 
 **Daisy's Run** - Scott Baron
 
