@@ -25,3 +25,10 @@ openssl s_client -connect nic-west.com:443
 {{< highlight bash >}}
 kubectl get pods -o custom-columns=NAME:.metadata.name,NAMESPACE:.metadata.namespace,PRIORITY:.spec.priority,PRIORITY_CLASS_NAME:.spec.priorityClassName -A
 {{</ highlight >}}
+
+
+### pod that prints egress IP
+
+{{< highlight bash >}}
+kubectl run -it --restart='Never' ipify --image=curlimages/curl --command -- curl 'https://api.ipify.org'
+{{</ highlight >}}
