@@ -8,6 +8,8 @@ url: /reading-list/
 
 **The Fifth Season** <sup>r</sup> -  N. K. Jemisin 
 
+**A Promised Land** - Barack Obama
+
 ## Next up
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
