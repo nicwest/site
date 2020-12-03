@@ -10,6 +10,8 @@ url: /reading-list/
 
 **A Promised Land** - Barack Obama
 
+**Talking with Tech Leads** - Patrick Kua
+
 ## Next up
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
