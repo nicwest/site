@@ -8,11 +8,11 @@ url: /reading-list/
 
 **The Fifth Season** <sup>r</sup> -  N. K. Jemisin 
 
-**A Promised Land** - Barack Obama
-
 **Talking with Tech Leads** - Patrick Kua
 
 ## Next up
+
+**A Promised Land** - Barack Obama :thumbsup:
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
 
