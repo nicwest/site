@@ -12,7 +12,6 @@ url: /reading-list/
 
 ## Next up
 
-**A Promised Land** - Barack Obama :thumbsup:
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
 
@@ -31,6 +30,8 @@ url: /reading-list/
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
+
+**A Promised Land** - Barack Obama :thumbsup:
 
 **Circe** <sup>r</sup> - Madeline Miller
 
