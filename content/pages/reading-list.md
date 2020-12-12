@@ -33,7 +33,7 @@ url: /reading-list/
 
 **A Promised Land** - Barack Obama :thumbsup:
 
-**Circe** <sup>r</sup> - Madeline Miller
+**Circe** <sup>r</sup> - Madeline Miller :thumbsup:
 
 **Red Rising** <sup>r</sup> - Pierce Brown
 
