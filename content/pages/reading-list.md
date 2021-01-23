@@ -8,6 +8,8 @@ url: /reading-list/
 
 **Talking with Tech Leads** - Patrick Kua
 
+**Unsouled** - Will Wight
+
 ## Next up
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
