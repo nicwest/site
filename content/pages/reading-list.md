@@ -6,12 +6,9 @@ url: /reading-list/
 
 ## In progress
 
-**The Fifth Season** <sup>r</sup> -  N. K. Jemisin 
-
 **Talking with Tech Leads** - Patrick Kua
 
 ## Next up
-
 
 **The Goal** <sup>J</sup> - Eliyahu M. Goldratt
 
@@ -30,6 +27,12 @@ url: /reading-list/
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
+
+**Bear Head** - Adrian Tchaikovsky
+
+**All Systems Red** - Martha Wells :thumbsup:
+
+**Uprooted** - Uprooted
 
 **A Promised Land** - Barack Obama :thumbsup:
 
@@ -262,6 +265,8 @@ url: /reading-list/
 **A Crucible of Souls** - Mitchell Hogan
 
 ## Got bored and stopped
+
+**The Fifth Season** <sup>r</sup> -  N. K. Jemisin 
 
 **Hyperion**<sup>r</sup> - Dan Simmons
 
