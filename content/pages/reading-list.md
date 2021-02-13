@@ -6,9 +6,9 @@ url: /reading-list/
 
 ## In progress
 
-**Talking with Tech Leads** - Patrick Kua
+**Underlord** - Will Wight
 
-**Unsouled** - Will Wight
+**Peopleware** - Tom DeMarco & Timothy Lister
 
 ## Next up
 
@@ -29,6 +29,18 @@ url: /reading-list/
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
+
+**Ghostwater** - Will Wight
+
+**Skysworn** - Will Wight
+
+**Blackflame** - Will Wight
+
+**Soulsmith** - Will Wight
+
+**Unsouled** - Will Wight
+
+**Talking with Tech Leads** - Patrick Kua
 
 **Bear Head** - Adrian Tchaikovsky
 
