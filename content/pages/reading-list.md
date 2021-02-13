@@ -24,8 +24,6 @@ url: /reading-list/
 
 **Born to Run** <sup>jds</sup> - Christopher McDougall 
 
-**Working in Public** <sup>hn</sup> - Nadia Eghbal
-
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
@@ -279,6 +277,8 @@ url: /reading-list/
 **A Crucible of Souls** - Mitchell Hogan
 
 ## Got bored and stopped
+
+**Working in Public** <sup>hn</sup> - Nadia Eghbal
 
 **The Fifth Season** <sup>r</sup> -  N. K. Jemisin 
 
