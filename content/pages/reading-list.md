@@ -6,9 +6,9 @@ url: /reading-list/
 
 ## In progress
 
-**Underlord** - Will Wight
-
 **Peopleware** - Tom DeMarco & Timothy Lister
+
+**I Am Pilgrim** - Terry Hayes
 
 ## Next up
 
@@ -27,6 +27,12 @@ url: /reading-list/
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
+
+**A Wizard's Guide to Defensive Baking** - T Kingfisher :thumbsup:
+
+**Uncrowned** - Will Wight
+
+**Underlord** - Will Wight
 
 **Ghostwater** - Will Wight
 
