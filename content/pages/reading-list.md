@@ -8,25 +8,17 @@ url: /reading-list/
 
 **Peopleware** - Tom DeMarco & Timothy Lister
 
-**I Am Pilgrim** - Terry Hayes
+**Shape up** - Ryan Signer
+
+**The Goblin Emperor** - Katherine Addison
 
 ## Next up
-
-**The Goal** <sup>J</sup> - Eliyahu M. Goldratt
-
-**Life 3.0** <sup>d</sup> - Max Tegmark
-
-**On Writing Well** <sup>j</sup> - William Zinsser
-
-**The War of Art** <sup>j</sup> - Steven Pressfield
-
-**Exhalation** <sup>jm</sup> - Ted Chiang
-
-**Born to Run** <sup>jds</sup> - Christopher McDougall 
 
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 ## Finished
+
+**I Am Pilgrim** - Terry Hayes
 
 **A Wizard's Guide to Defensive Baking** - T Kingfisher :thumbsup:
 
@@ -282,6 +274,7 @@ url: /reading-list/
 
 **A Crucible of Souls** - Mitchell Hogan
 
+
 ## Got bored and stopped
 
 **Working in Public** <sup>hn</sup> - Nadia Eghbal
@@ -305,6 +298,20 @@ url: /reading-list/
 **Confessions of an Economic Hit Man** <sup>hn</sup> - John Perkins
 
 **Rapid Development** - Steve McConnell
+
+## Other Bets
+
+**The Goal** <sup>J</sup> - Eliyahu M. Goldratt
+
+**Life 3.0** <sup>d</sup> - Max Tegmark
+
+**On Writing Well** <sup>j</sup> - William Zinsser
+
+**The War of Art** <sup>j</sup> - Steven Pressfield
+
+**Exhalation** <sup>jm</sup> - Ted Chiang
+
+**Born to Run** <sup>jds</sup> - Christopher McDougall 
 
 <hr />
 
