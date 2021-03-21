@@ -10,13 +10,12 @@ url: /reading-list/
 
 **Shape up** - Ryan Signer
 
-**The Goblin Emperor** - Katherine Addison
-
-## Next up
-
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
+
 ## Finished
+
+**The Goblin Emperor** - Katherine Addison :thumbsup:
 
 **I Am Pilgrim** - Terry Hayes
 

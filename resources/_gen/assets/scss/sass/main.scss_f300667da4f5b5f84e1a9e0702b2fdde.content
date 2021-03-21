@@ -94,7 +94,8 @@ blockquote {
 /**
  * Code formatting
  */
-pre code {
+pre
+code {
   font-size: 13px;
   border-radius: 3px;
   color: #fff;
@@ -133,7 +134,6 @@ pre {
       max-width: calc(1000px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
-
 /**
  * Clearfix
  */
@@ -228,7 +228,6 @@ footer.site-footer {
   @media screen and (max-width: 600px) {
     footer.site-footer .container {
       padding: 0 30px 8 30px; } }
-
 a.tooltips {
   position: relative;
   display: inline; }
