@@ -12,6 +12,7 @@ url: /reading-list/
 
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
+**Sword of Kaigen** - M.L. Wang
 
 ## Finished
 
