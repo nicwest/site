@@ -22,6 +22,8 @@ url: /reading-list/
 
 **The Long Way to a Small, Angry Planet** - Becky Chambers
 
+**Bloodline** - Will Wight
+
 **Sword of Kaigen** - M.L. Wang
 
 **The Goblin Emperor** - Katherine Addison :thumbsup:
