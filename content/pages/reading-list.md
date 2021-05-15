@@ -12,9 +12,17 @@ url: /reading-list/
 
 **Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
-**Sword of Kaigen** - M.L. Wang
+**Time of Contempt** - Andrzej Sapkowski 
 
 ## Finished
+
+**Project Hail Mary** - Andy Weir 
+
+**A Closed and Common Orbit** - Becky Chambers :thumbsup:
+
+**The Long Way to a Small, Angry Planet** - Becky Chambers
+
+**Sword of Kaigen** - M.L. Wang
 
 **The Goblin Emperor** - Katherine Addison :thumbsup:
 
