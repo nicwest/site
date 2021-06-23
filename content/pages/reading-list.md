@@ -3,18 +3,17 @@ title: Reading List
 url: /reading-list/
 ---
 
-
 ## In progress
 
-**Peopleware** - Tom DeMarco & Timothy Lister
+**Worm** - Wildbow
 
-**Shape up** - Ryan Signer
+## Finished
 
-**Leviathan Wakes** <sup>s</sup> - James S. A. Corey
+**Artificial Condition** - Martha Wells
 
 **Time of Contempt** - Andrzej Sapkowski 
 
-## Finished
+**Leviathan Wakes** <sup>s</sup> - James S. A. Corey
 
 **Project Hail Mary** - Andy Weir 
 
@@ -286,6 +285,12 @@ url: /reading-list/
 
 
 ## Got bored and stopped
+
+**A Memory Called Empire** - Arkady Martine
+
+**Peopleware** - Tom DeMarco & Timothy Lister
+
+**Shape up** - Ryan Signer
 
 **Working in Public** <sup>hn</sup> - Nadia Eghbal
 
