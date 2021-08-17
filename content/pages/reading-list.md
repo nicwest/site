@@ -5,9 +5,11 @@ url: /reading-list/
 
 ## In progress
 
-**Worm** - Wildbow
+**Rhythm of War** - Brandon Sanderson
 
 ## Finished
+
+**Worm** - Wildbow
 
 **Artificial Condition** - Martha Wells
 
