@@ -5,9 +5,35 @@ url: /reading-list/
 
 ## In progress
 
-**Rhythm of War** - Brandon Sanderson
+**Once and Future Witches** - Alix E. Harrow
 
 ## Finished
+
+**Shattered Galaxy** - Scott Bartlett
+
+**Mage Errant** - John Bierce
+
+**Reaper** - Will Wight
+
+**Light of the Jedi** - Charles Soule :thumbsup:
+
+**Into the Void** - Tim Lebbon
+
+**Darth Plagueis** - James Luceno
+
+**Scholar of Magin** - Michael Manning
+
+**Secrets and Spellcraft** - Michael Manning
+
+**The Making of Modern Britain** - Andrew Marr
+
+**The Choice of Magic** - Michael G. Manning
+
+**The Storyteller** - David Grohl
+
+**Neuromancer** - William Gibson
+
+**Rhythm of War** - Brandon Sanderson
 
 **Worm** - Wildbow
 
