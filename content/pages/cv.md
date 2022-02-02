@@ -3,22 +3,25 @@ title: "Nic West"
 url: /cv/
 ---
 
-Senior python and go developer with 10 years of experience. Versatile
+Senior python (and others) developer with 11 years of experience. Versatile
 programmer, good mentor, and award winning eBook animator. [Read
 more...][about]
 
 History
 -------
 
-**2018 - present:** Lead Backend Developer @ Wayhome (previously Unmortgage)     
+**2018 - present:** Technical Architect @ Wayhome (previously Unmortgage)     
 *Wayhome aims to bridge the gap between renting and buying a home*
 
-* Backend infrastructure and services bootstrap.
-* Hired and trained a small team of backend developers.
+* Backend infrastructure and service bootstrap, development, maintenance, and
+  end of life planning.
+* Hiring and training an ever expanding team of developers.
 * Oversaw and/or was directly involved in design and development of technical
   solutions to hundreds of business problems.
-* Tailored development process to fit business needs.
-* Worked closely with product, data, operations and marketing teams.
+* Tailoring development process to fit business needs.
+* Working closely with product, data, operations and marketing teams to solve
+  business critical problems.
+* Negotiated and maintaining external supplier contracts.
 
 **2015 - 2018:** Senior Software Engineer @ Ingresso    
 *Ingresso is a international aggregator for the  primary ticketing market*
@@ -78,12 +81,11 @@ statically generated sites, serverless micro services, and realtime websocket
 based applications. I have seen python running at scale and python falling
 flat on its face at scale. I write good, simple, low-state python code that
 is designed to be easily understood, easy to replace/refactor, and easy to
-test (in that order of priority).
+test.
 
-**Go:** This is my second language and the hammer I reach for when python
-reaches its limits. I have been shipping high volume, low latency go code
-for over 2 years. I have experience optimising go for both speed and resource
-usage and would describe myself as competent gopher.
+**Kubernetes:** I've used kubernetes extensively every day for the last 6
+years. I've boostrapped multiple clusters, implemented auto scaling (in every
+direction), and handled mass migrations. 
 
 **Databases:** I have a good working knowledge of MySQL, PostreSQL, and
 Redis. I have worked with Mongodb and ElasticSearch often (just not recently),
@@ -91,10 +93,9 @@ and have a passable understanding of Cassandra.
 
 **Teams:** I believe that I work well in a small to medium sized team. I aim
 to provide velocity to any team I'm part of. I have mentored both junior
-developers and non technical staff. I have managed developers in the past and
-my ability to communicate concepts and designs is good. I am well versed in XP
-and have lots of experience with scrum and kind-of-sort-of-a-bit-scrum style
-set ups.
+developers and non technical staff. I have managed developers and my ability
+to communicate concepts and designs is good. I am well versed in XP, Scrum,
+and Kanban (and a number of sort agile but really not set ups).
 
 **System Design:** at a micro level I favour a tracer bullet style of design
 that relies on getting code into production quickly, and then using metrics
@@ -102,17 +103,15 @@ to evaluate what the next iteration of development should be. On a macro level
 I like domain driven, asynchronous, micro services with minimal
 interdependencies.
 
-**API Design:** Having spent the last 4-5 years primarily either writing or
+**API Design:** Having spent the last 8 years primarily either writing or
 consuming APIs I have fairly strong opinions about public API design. APIs
 should be consistent, easy to deserialise, and provide clear information when
-things deviate from the happy path. I recently read *[Consumer-Centric API
-Design][consumer-centric]* by Thomas Hunter, and I feel like it neatly
-summarises my thoughts and feelings about API design.
+things deviate from the happy path.
  
 Me
 --
 
-**Date of Birth:** 21/06/1988 (32)    
+**Date of Birth:** 21/06/1988 (33)    
 **Email:** [nicwest@mailbox.org](mailto:nicwest@mailbox.org)   
 **References:** On request    
 
@@ -131,4 +130,3 @@ Me
 
 
 [about]: /about/
-[consumer-centric]: https://www.amazon.co.uk/Consumer-Centric-API-Design-Thomas-Hunter/dp/136498900X
