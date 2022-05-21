@@ -5,9 +5,27 @@ url: /reading-list/
 
 ## In progress
 
-**Once and Future Witches** - Alix E. Harrow
+**Guns of the Dawn** - Adrian Tchaikovsky 
 
 ## Finished
+
+**A Deadly Education** - Naomi Novik 
+
+**Do What You Want: The Story of Bad Religion** - Bad Religion , Jim Ruland 
+
+**Mother of Learning Arc 1: Mother of Learning, Book 1** - nobody103
+
+**Rebel Fleet** - B. V. Larson 
+
+**The Shadow of the Gods** - John Gwynne 
+
+**Gideon the Ninth** - Tamsyn Muir
+
+**Shape Up** - Ryan Signer
+
+**Docs for Developers: An Engineer’s Field Guide to Technical Writing** - Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, Heidi Waterhouse
+
+**Threat Modeling** - Adam Shostack
 
 **Shattered Galaxy** - Scott Bartlett
 
@@ -313,6 +331,8 @@ url: /reading-list/
 
 
 ## Got bored and stopped
+
+**Once and Future Witches** - Alix E. Harrow
 
 **A Memory Called Empire** - Arkady Martine
 
