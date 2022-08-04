@@ -5,13 +5,19 @@ url: /reading-list/
 
 ## In progress
 
-**Guns of the Dawn** - Adrian Tchaikovsky 
+**Theft of Swords** - Michael J. Sullivan
 
 ## Finished
 
+**Shards of Earth** - Adrian Tchaikovsky :thumbsup:
+
+**He Who Fights with Monsters** - Shirtaloon , Travis Deverell 
+
+**Guns of the Dawn** - Adrian Tchaikovsky  :thumbsup:
+
 **A Deadly Education** - Naomi Novik 
 
-**Do What You Want: The Story of Bad Religion** - Bad Religion , Jim Ruland 
+**Do What You Want: The Story of Bad Religion** - Bad Religion , Jim Ruland :thumbsup:
 
 **Mother of Learning Arc 1: Mother of Learning, Book 1** - nobody103
 
