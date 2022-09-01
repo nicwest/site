@@ -5,9 +5,15 @@ url: /reading-list/
 
 ## In progress
 
-**Theft of Swords** - Michael J. Sullivan
+**Empire in Black and Gold** - Adrian Tchaikovsky
 
 ## Finished
+
+**Mavericks** - Craig Alanson
+
+**Dreadgod** - Will Wight
+
+**Theft of Swords** - Michael J. Sullivan
 
 **Shards of Earth** - Adrian Tchaikovsky :thumbsup:
 
