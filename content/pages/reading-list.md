@@ -7,6 +7,8 @@ url: /reading-list/
 
 **Empire in Black and Gold** - Adrian Tchaikovsky
 
+**Staff Engineer** - Will Larson
+
 ## Finished
 
 **Mavericks** - Craig Alanson
