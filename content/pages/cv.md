@@ -9,7 +9,7 @@ stuff on the web. [Read more...][about]
 History
 -------
 
-**2018 - 2023: ** Head of Engineering &larr; Technical Architect &larr; Backend Lead  @ Wayhome (previously Unmortgage)     
+**2018 - 2023:** Head of Engineering &larr; Technical Architect &larr; Backend Lead  @ Wayhome (previously Unmortgage)     
 *Wayhome aims to bridge the gap between renting and buying a home*
 
 * Set up initial infrastructure, built core services, and set standards.
@@ -86,13 +86,14 @@ flat on its face at scale. I write good, simple, low-state python code that
 is designed to be easily understood, easy to replace/refactor, and easy to
 test.
 
-**Other Languages**: In addition to python, I've worked professionaly in
-Golang, javascript, typescript, C, Obj-C <sup>\*</sup>, shell, lua, PHP, ASP, and Perl.
-I'm hobbiest clojure developer.
+**Other Languages**: In addition to python, I've worked professionally in
+Golang, javascript, typescript, C, Obj-C <sup>\*</sup>, shell, lua, PHP, ASP,
+and Perl. I'm hobbiest clojure developer.
 
 **Kubernetes:** I've used kubernetes extensively every day for the last 8
 years. I've boostrapped and managed multiple production clusters, implemented
-auto scaling (in every direction), and handled years of migrations. 
+auto scaling (in every direction), and handled years of maintenance and
+migrations. 
 
 **Databases:** I have a good working knowledge of MySQL, PostreSQL, and
 Redis. I have worked with Mongodb and ElasticSearch often (just not recently),
