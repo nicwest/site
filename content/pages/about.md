@@ -5,10 +5,12 @@ url: /about/
 
 {{< figure src="/images/me.jpg" attr="Edward Knowles, 2012" attrlink="http://eknowles.com" >}}
 
-I am a web developer living in London and working at [Wayhome][wayhome] where
-I am the Technical Architect (whatever the hell that means). Nowadays I spend
-most of my time in meetings talking about other people doing programming which
-makes me sad. 
+I look a lot older than this now, but I like the photo!
+
+I am a web developer living in London and gloriously unemployed! I'm taking a
+break following a long spell as Head of Engineering at [Wayhome][wayhome]. I'm
+spending my time learning to play chess and guitar, and I'm working on some
+side projects.
 
 I've spent the last 10 years or so working at either startups or scaleups
 across a number of sectors (most recently property and ticketing). I've been

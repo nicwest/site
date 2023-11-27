@@ -3,27 +3,26 @@ title: "Nic West"
 url: /cv/
 ---
 
-Senior python (and others) developer with 11 years of experience. Versatile
-programmer, good mentor, and award winning eBook animator. [Read
-more...][about]
+Engineering lead and versatile programmer with 13 years of experience building
+stuff on the web. [Read more...][about]
 
 History
 -------
 
-**2018 - present:** Technical Architect @ Wayhome (previously Unmortgage)     
+**2018 - 2023: ** Head of Engineering &larr; Technical Architect &larr; Backend Lead  @ Wayhome (previously Unmortgage)     
 *Wayhome aims to bridge the gap between renting and buying a home*
 
-* Backend infrastructure and service bootstrap, development, maintenance, and
-  end of life planning.
-* Hiring and training an ever expanding team of developers.
+* Set up initial infrastructure, built core services, and set standards.
+* Hired, trained, and managed a large number engineers.
 * Oversaw and/or was directly involved in design and development of technical
   solutions to hundreds of business problems.
-* Tailoring development process to fit business needs.
-* Working closely with product, data, operations and marketing teams to solve
-  business critical problems.
-* Negotiated and maintaining external supplier contracts.
+* Negotiated and maintained external supplier contracts.
+* As Head of Engineering I was part of the executive team and I was responsible
+  for the engineering, product and data teams.
 
-**2015 - 2018:** Senior Software Engineer @ Ingresso    
+stack: python, typescript, kubernetes, postgresql, GCP.
+
+**2015 - 2018:** Software Engineer &larr; Senior Software Engineer @ Ingresso    
 *Ingresso is a international aggregator for the  primary ticketing market*
 
 * Maintained and extended a large monolithic objective c web API. 
@@ -35,6 +34,9 @@ History
 * Production experience at scale of docker, kubernetes and google cloud.
 * Maintained open source libraries.
 
+stack: python, go, C, Obj-C, mysql, kuberenetes, GCP, non virtual servers.
+
+
 **2014 - 2015:** Web developer @ Leto   
 *Leto was a fast paced Django shop, building out prototype sites for startups*   
 
@@ -42,6 +44,8 @@ History
 * Involved in specification and estimation for new clients.
 * Set up automated deployments.
 * Production experience of AWS.
+
+stack: python, go, Obj-C, postgres, AWS
 
 **2010 - 2014:** Digital director @ Stunjelly   
 *Stunjelly was a digital publishing consultancy that specialised in complex
@@ -53,18 +57,17 @@ ebook covertions and corrections*
   animation.
 * Fabricated tools for in house teams.
 * Pitched and won work from multiple clients.
-* Predominately perl and python
+
+stack: python, javascript, mysql, CSS (back when that was a cool thing to know
+about)
 
 **2009 - 2010:** Web Development Assistant @ Random House   
 *Random House is large book publisher that required a lot of micro sites and
 internal tools*   
 
 * Built small websites for authors, or book launches.
-* Mainly in ASP classic but also some PHP.
 
-**2004 - 2006:** Assistant Climbing Instructor @ Westyway Sports Center    
-*Weekend/holiday work supervising/coaching children and adults in indoor rock
-climbing*   
+stack: ASP (classic), PHP, MSSQL.
 
 Education
 ---------
@@ -83,9 +86,13 @@ flat on its face at scale. I write good, simple, low-state python code that
 is designed to be easily understood, easy to replace/refactor, and easy to
 test.
 
-**Kubernetes:** I've used kubernetes extensively every day for the last 6
-years. I've boostrapped multiple clusters, implemented auto scaling (in every
-direction), and handled mass migrations. 
+**Other Languages**: In addition to python, I've worked professionaly in
+Golang, javascript, typescript, C, Obj-C <sup>\*</sup>, shell, lua, PHP, ASP, and Perl.
+I'm hobbiest clojure developer.
+
+**Kubernetes:** I've used kubernetes extensively every day for the last 8
+years. I've boostrapped and managed multiple production clusters, implemented
+auto scaling (in every direction), and handled years of migrations. 
 
 **Databases:** I have a good working knowledge of MySQL, PostreSQL, and
 Redis. I have worked with Mongodb and ElasticSearch often (just not recently),
@@ -93,9 +100,9 @@ and have a passable understanding of Cassandra.
 
 **Teams:** I believe that I work well in a small to medium sized team. I aim
 to provide velocity to any team I'm part of. I have mentored both junior
-developers and non technical staff. I have managed developers and my ability
-to communicate concepts and designs is good. I am well versed in XP, Scrum,
-and Kanban (and a number of sort agile but really not set ups).
+developers and non technical staff. I have lead and managed teams and my
+ability to communicate concepts and designs is good. I am well versed in XP,
+Scrum, and Kanban.
 
 **System Design:** at a micro level I favour a tracer bullet style of design
 that relies on getting code into production quickly, and then using metrics
@@ -103,7 +110,7 @@ to evaluate what the next iteration of development should be. On a macro level
 I like domain driven, asynchronous, micro services with minimal
 interdependencies.
 
-**API Design:** Having spent the last 8 years primarily either writing or
+**API Design:** Having spent the last decade or so primarily either writing or
 consuming APIs I have fairly strong opinions about public API design. APIs
 should be consistent, easy to deserialise, and provide clear information when
 things deviate from the happy path.
@@ -111,7 +118,7 @@ things deviate from the happy path.
 Me
 --
 
-**Date of Birth:** 21/06/1988 (33)    
+**Date of Birth:** 21/06/1988 (35)    
 **Email:** [nicwest@mailbox.org](mailto:nicwest@mailbox.org)   
 **References:** On request    
 
@@ -125,7 +132,7 @@ Me
         <span>@west_nic</span>
     </a>
 <br/>
-    <small>updated 2020-04-27 03:02:50</small>
+    <small>updated 2023-11-27 01:37:50</small>
 </div>
 
 
