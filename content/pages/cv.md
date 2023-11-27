@@ -22,7 +22,7 @@ History
 
 stack: python, typescript, kubernetes, postgresql, GCP.
 
-**2015 - 2018:** Software Engineer &larr; Senior Software Engineer @ Ingresso    
+**2015 - 2018:** Senior Software Engineer &larr; Software Engineer @ Ingresso    
 *Ingresso is a international aggregator for the  primary ticketing market*
 
 * Maintained and extended a large monolithic objective c web API. 
@@ -34,18 +34,14 @@ stack: python, typescript, kubernetes, postgresql, GCP.
 * Production experience at scale of docker, kubernetes and google cloud.
 * Maintained open source libraries.
 
-stack: python, go, C, Obj-C, mysql, kuberenetes, GCP, non virtual servers.
 
-
-**2014 - 2015:** Web developer @ Leto   
+**2014 - 2015:** Junior Web developer @ Leto   
 *Leto was a fast paced Django shop, building out prototype sites for startups*   
 
 * Built and/or maintained a number of django/js applications. 
 * Involved in specification and estimation for new clients.
 * Set up automated deployments.
 * Production experience of AWS.
-
-stack: python, go, Obj-C, postgres, AWS
 
 **2010 - 2014:** Digital director @ Stunjelly   
 *Stunjelly was a digital publishing consultancy that specialised in complex
@@ -58,16 +54,11 @@ ebook covertions and corrections*
 * Fabricated tools for in house teams.
 * Pitched and won work from multiple clients.
 
-stack: python, javascript, mysql, CSS (back when that was a cool thing to know
-about)
-
 **2009 - 2010:** Web Development Assistant @ Random House   
 *Random House is large book publisher that required a lot of micro sites and
 internal tools*   
 
 * Built small websites for authors, or book launches.
-
-stack: ASP (classic), PHP, MSSQL.
 
 Education
 ---------
