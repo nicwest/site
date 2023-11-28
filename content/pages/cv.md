@@ -77,7 +77,7 @@ test.
 
 **Other Languages**: In addition to python, I've worked professionally in
 Golang, javascript, typescript, C, Obj-C <sup>\*</sup>, shell, lua, PHP, ASP,
-and Perl. I'm hobbiest clojure developer.
+and Perl. I'm a hobbiest clojure developer.
 
 **Kubernetes:** I've used kubernetes extensively every day for the last 8
 years. I've boostrapped and managed multiple production clusters, implemented
