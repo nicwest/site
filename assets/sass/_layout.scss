@@ -93,3 +93,10 @@ footer.site-footer {
 }
 
 
+@media print
+{    
+    .no-print
+    {
+        display: none !important;
+    }
+}
