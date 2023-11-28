@@ -20,8 +20,6 @@ History
 * As Head of Engineering I was part of the executive team and I was responsible
   for the engineering, product and data teams.
 
-stack: python, typescript, kubernetes, postgresql, GCP.
-
 **2015 - 2018:** Senior Software Engineer &larr; Software Engineer @ Ingresso    
 *Ingresso is a international aggregator for the  primary ticketing market*
 
@@ -115,15 +113,6 @@ Me
 **References:** On request    
 
 <div class="center">
-    <a href="https://github.com/nicwest" class="tooltips" target="_blank">
-        <i class="big-icon fab fa-github"></i>
-        <span>github</span>
-    </a>
-    <a href="https://twitter.com/west_nic" class="tooltips" target="_blank">
-        <i class="big-icon fab fa-twitter"></i>
-        <span>@west_nic</span>
-    </a>
-<br/>
     <small>updated 2023-11-27 01:37:50</small>
 </div>
 
