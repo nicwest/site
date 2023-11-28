@@ -66,16 +66,17 @@ Education
 Skills
 ------
 
-**Python:** I would describe myself as an exceptionally strong python
-developer. I have production experience with most of the major python web
-frameworks. I have shipped APIs, template based web sites, GUI tools,
-statically generated sites, serverless micro services, and realtime websocket
-based applications. I have seen python running at scale and python falling
-flat on its face at scale. I write good, simple, low-state python code that
+**Building Internet stuff:** I have shipped APIs, template based web sites,
+GUI tools, statically generated sites, serverless micro services, and realtime
+websocket based applications. I have worked on the frontend, backend, and
+infra side of the web, and seen applications running at scale and applications
+falling flat on their face at scale. I write good, simple, low-state code that
 is designed to be easily understood, easy to replace/refactor, and easy to
 test.
 
-**Other Languages**: In addition to python, I've worked professionally in
+**Programming Languages**: I would describe myself as an exceptionally strong
+python developer and I have been working primarily in that language for the
+last decade or so. In addition to python, I've done work professionally in
 Golang, javascript, typescript, C, Obj-C <sup>\*</sup>, shell, lua, PHP, ASP,
 and Perl. I'm a hobbiest clojure developer.
 
@@ -84,27 +85,17 @@ years. I've boostrapped and managed multiple production clusters, implemented
 auto scaling (in every direction), and handled years of maintenance and
 migrations. 
 
-**Databases:** I have a good working knowledge of MySQL, PostreSQL, and
-Redis. I have worked with Mongodb and ElasticSearch often (just not recently),
-and have a passable understanding of Cassandra.
+**Databases:** I have a good working knowledge of PostreSQL, MySQL and
+Redis. I have worked with Mongodb a fair bit (just not recently), and have a
+passable understanding of Cassandra. I'm playing with some of the jamstack
+databases at the moment (I like fuanadb).
 
-**Teams:** I believe that I work well in a small to medium sized team. I aim
-to provide velocity to any team I'm part of. I have mentored both junior
-developers and non technical staff. I have lead and managed teams and my
-ability to communicate concepts and designs is good. I am well versed in XP,
-Scrum, and Kanban.
+**Teams:** I have a fair amount of experience working as part of, leading,
+and managing small to medium sized teams. My ability to communicate concepts
+and designs is good, and I think I'm a good mentor to both technical and non
+technical team mates. I am well versed in XP, Scrum and Kanban (although I'm not
+really a fan of any of them).
 
-**System Design:** at a micro level I favour a tracer bullet style of design
-that relies on getting code into production quickly, and then using metrics
-to evaluate what the next iteration of development should be. On a macro level
-I like domain driven, asynchronous, micro services with minimal
-interdependencies.
-
-**API Design:** Having spent the last decade or so primarily either writing or
-consuming APIs I have fairly strong opinions about public API design. APIs
-should be consistent, easy to deserialise, and provide clear information when
-things deviate from the happy path.
- 
 Me
 --
 
