@@ -10,8 +10,8 @@
     <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
     {{ end }}
     {{ $styles := resources.Get "sass/main.scss" | resources.ToCSS }}
-    <link href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic|Questrial|Inconsolata:400,700" rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+    <link href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic|Questrial|Inconsolata:400,700" rel="stylesheet" type="text/css" media="all">
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" media="all">
     {{ if .Params.vega }}
     <script src="https://cdn.jsdelivr.net/npm/vega@5.10.1"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.11.0"></script>
