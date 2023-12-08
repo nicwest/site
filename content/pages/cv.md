@@ -32,7 +32,6 @@ History
 * Production experience at scale of docker, kubernetes and google cloud.
 * Maintained open source libraries.
 
-
 **2014 - 2015:** Junior Web developer @ Leto   
 *Leto was a fast paced Django shop, building out prototype sites for startups*   
 
@@ -55,8 +54,6 @@ ebook covertions and corrections*
 **2009 - 2010:** Web Development Assistant @ Random House   
 *Random House is large book publisher that required a lot of micro sites and
 internal tools*   
-
-* Built small websites for authors, or book launches.
 
 Education
 ---------
@@ -101,6 +98,8 @@ Me
 
 **Date of Birth:** 21/06/1988 (35)    
 **Email:** [nicwest@mailbox.org](mailto:nicwest@mailbox.org)   
+**Github:** [github.com/nicwest](https://github.com/nicwest)
+**Linkedin:** [linkedin.com/in/nic-west-57664225/](https://www.linkedin.com/in/nic-west-57664225/)
 **References:** On request    
 
 <div class="center">
