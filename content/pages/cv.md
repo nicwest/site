@@ -98,8 +98,8 @@ Me
 
 **Date of Birth:** 21/06/1988 (35)    
 **Email:** [nicwest@mailbox.org](mailto:nicwest@mailbox.org)   
-**Github:** [github.com/nicwest](https://github.com/nicwest)
-**Linkedin:** [linkedin.com/in/nic-west-57664225/](https://www.linkedin.com/in/nic-west-57664225/)
+**Github:** [github.com/nicwest](https://github.com/nicwest)    
+**Linkedin:** [linkedin.com/in/nic-west-57664225/](https://www.linkedin.com/in/nic-west-57664225/)    
 **References:** On request    
 
 <div class="center">
