@@ -16,9 +16,11 @@ History
 * Hired, trained, and managed a large number engineers.
 * Oversaw and/or was directly involved in design and development of technical
   solutions to hundreds of business problems.
-* Negotiated and maintained external supplier contracts.
 * As Head of Engineering I was part of the executive team and I was responsible
   for the engineering, product and data teams.
+* Worked along side business leaders to translate business objectives into
+  techincal and product related projects.
+* Negotiated and maintained external supplier contracts.
 
 **2015 - 2018:** Senior Software Engineer &larr; Software Engineer @ Ingresso    
 *Ingresso is a international aggregator for the  primary ticketing market*
